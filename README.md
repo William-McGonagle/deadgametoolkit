@@ -1,5 +1,5 @@
 # Dead Game Toolkit
-### Created by [![William McGonagle](https://github.com/William-McGonagle.png =30x30)](https://github.com/William-McGonagle/)
+### Created by [William McGonagle](https://github.com/William-McGonagle/)
 
 An open source tool for creating community based games or reviving old communities that have lost developer support.
 
